@@ -1,4 +1,4 @@
- 🫀 Quantum Health Pulse – Heart Disease Data Preprocessing
+## 🫀 Quantum Health Pulse – Heart Disease Data Preprocessing
 
 ## 📌 Overview  
 **Quantum Health Pulse** is a data preprocessing pipeline for cleaning and preparing **heart disease data with quantum-inspired health features** for further analysis or machine learning.  
