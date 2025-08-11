@@ -1,12 +1,4 @@
-Got it — when you say **"no table"**, I’m assuming you mean that in the README draft I gave earlier, you don’t want those GitHub-style Markdown tables for dataset details or project structure.  
-
-Instead, I can rewrite the README so it’s **cleaner and bullet-point based**, without any table formatting, while still keeping all the important information from your CSV and R script.
-
-Here’s the **"no table"** version of the README:
-
-***
-
-# 🫀 Quantum Health Pulse – Heart Disease Data Preprocessing
+ 🫀 Quantum Health Pulse – Heart Disease Data Preprocessing
 
 ## 📌 Overview  
 **Quantum Health Pulse** is a data preprocessing pipeline for cleaning and preparing **heart disease data with quantum-inspired health features** for further analysis or machine learning.  
